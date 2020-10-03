@@ -1,1 +1,1 @@
-var e = document.getElementById["home"]
+var e = document.getElementById["home-row"]
